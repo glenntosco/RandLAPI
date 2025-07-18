@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Temp\\RandLAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI.csproj|d:\\temp\\randlapi\\randlapi\\deployment.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI.csproj|solutionrelative:randlapi\\deployment.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI.csproj|d:\\temp\\randlapi\\randlapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI.csproj|solutionrelative:randlapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI.csproj|d:\\temp\\randlapi\\randlapi\\services\\pickticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI.csproj|solutionrelative:randlapi\\services\\pickticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DEPLOYMENT.md",
+              "DocumentMoniker": "D:\\Temp\\RandLAPI\\RandLAPI\\DEPLOYMENT.md",
+              "RelativeDocumentMoniker": "RandLAPI\\DEPLOYMENT.md",
+              "ToolTip": "D:\\Temp\\RandLAPI\\RandLAPI\\DEPLOYMENT.md",
+              "RelativeToolTip": "RandLAPI\\DEPLOYMENT.md",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAEIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-18T19:40:20.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Temp\\RandLAPI\\RandLAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RandLAPI\\appsettings.json",
+              "ToolTip": "D:\\Temp\\RandLAPI\\RandLAPI\\appsettings.json",
+              "RelativeToolTip": "RandLAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T19:37:48.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PickTicketService.cs",
+              "DocumentMoniker": "D:\\Temp\\RandLAPI\\RandLAPI\\Services\\PickTicketService.cs",
+              "RelativeDocumentMoniker": "RandLAPI\\Services\\PickTicketService.cs",
+              "ToolTip": "D:\\Temp\\RandLAPI\\RandLAPI\\Services\\PickTicketService.cs",
+              "RelativeToolTip": "RandLAPI\\Services\\PickTicketService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T19:33:22.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
