@@ -104,3 +104,4 @@ D:\Temp\RandLAPI\RandLAPI\obj\Debug\net9.0\refint\RandLAPI.dll
 D:\Temp\RandLAPI\RandLAPI\obj\Debug\net9.0\RandLAPI.pdb
 D:\Temp\RandLAPI\RandLAPI\obj\Debug\net9.0\RandLAPI.genruntimeconfig.cache
 D:\Temp\RandLAPI\RandLAPI\obj\Debug\net9.0\ref\RandLAPI.dll
+D:\Temp\RandLAPI\RandLAPI\obj\Debug\net9.0\RandLAPI.sourcelink.json

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Temp\\RandLAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI.csproj|d:\\temp\\randlapi\\randlapi\\deployment.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI.csproj|solutionrelative:randlapi\\deployment.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|d:\\temp\\randlapi\\randlapi\\models\\rlcarrierbolrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|solutionrelative:randlapi\\models\\rlcarrierbolrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI.csproj|d:\\temp\\randlapi\\randlapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI.csproj|solutionrelative:randlapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|d:\\temp\\randlapi\\randlapi\\deployment.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|solutionrelative:randlapi\\deployment.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI.csproj|d:\\temp\\randlapi\\randlapi\\services\\pickticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI.csproj|solutionrelative:randlapi\\services\\pickticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|d:\\temp\\randlapi\\randlapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|solutionrelative:randlapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|d:\\temp\\randlapi\\randlapi\\services\\pickticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|solutionrelative:randlapi\\services\\pickticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,6 +59,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RLCarrierBOLRequest.cs",
+              "DocumentMoniker": "D:\\Temp\\RandLAPI\\RandLAPI\\Models\\RLCarrierBOLRequest.cs",
+              "RelativeDocumentMoniker": "RandLAPI\\Models\\RLCarrierBOLRequest.cs",
+              "ToolTip": "D:\\Temp\\RandLAPI\\RandLAPI\\Models\\RLCarrierBOLRequest.cs",
+              "RelativeToolTip": "RandLAPI\\Models\\RLCarrierBOLRequest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T19:46:37.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DEPLOYMENT.md",
               "DocumentMoniker": "D:\\Temp\\RandLAPI\\RandLAPI\\DEPLOYMENT.md",
               "RelativeDocumentMoniker": "RandLAPI\\DEPLOYMENT.md",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Temp\\RandLAPI\\RandLAPI\\appsettings.json",
               "RelativeDocumentMoniker": "RandLAPI\\appsettings.json",
@@ -75,12 +92,11 @@
               "RelativeToolTip": "RandLAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-18T19:37:48.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T19:37:48.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PickTicketService.cs",
               "DocumentMoniker": "D:\\Temp\\RandLAPI\\RandLAPI\\Services\\PickTicketService.cs",
               "RelativeDocumentMoniker": "RandLAPI\\Services\\PickTicketService.cs",
@@ -88,8 +104,7 @@
               "RelativeToolTip": "RandLAPI\\Services\\PickTicketService.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T19:33:22.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T19:33:22.887Z"
             }
           ]
         }
