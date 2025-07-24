@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Temp\\RandLAPI\\RandLAPI\\RandLAPI.csproj": {}
+    "C:\\Projects\\github\\RandLAPI\\RandLAPI\\RandLAPI.csproj": {}
   },
   "projects": {
-    "D:\\Temp\\RandLAPI\\RandLAPI\\RandLAPI.csproj": {
+    "C:\\Projects\\github\\RandLAPI\\RandLAPI\\RandLAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Temp\\RandLAPI\\RandLAPI\\RandLAPI.csproj",
+        "projectUniqueName": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\RandLAPI.csproj",
         "projectName": "RandLAPI",
-        "projectPath": "D:\\Temp\\RandLAPI\\RandLAPI\\RandLAPI.csproj",
-        "packagesPath": "C:\\Users\\GlennTosco\\.nuget\\packages\\",
-        "outputPath": "D:\\Temp\\RandLAPI\\RandLAPI\\obj\\",
+        "projectPath": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\RandLAPI.csproj",
+        "packagesPath": "C:\\Users\\sysup.KCNOTEBOOK91\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
-          "e:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GlennTosco\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.2.config",
+          "C:\\Users\\sysup.KCNOTEBOOK91\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,9 +27,8 @@
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "E:\\Program Files\\DevExpress 24.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -87,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
