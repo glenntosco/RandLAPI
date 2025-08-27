@@ -37,7 +37,7 @@ This service automates the creation of Bills of Lading (BOLs) in R&L Carriers fr
   },
   "RLCarrierSettings": {
     "BaseUrl": "https://apisandbox.rlc.com",
-    "ApiKey": "ItO0YzFzIxZ1Q0MWQtZWNlZi00MDVkLTgxYzNGNiQlMzMTkTC",
+    "ApiKey": "ItO0YzFzIxZ1Q0MWQtZW.....kLTgxYzNGNiQlMzMTkTC",
     "Endpoint": "/BillOfLading"
   }
 }
