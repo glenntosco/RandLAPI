@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RandLAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f42f71baec09abc5b9b153c164c884ff70b6ef5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+880c0263a7af582c7bc3440874b64630e58f2d20")]
 [assembly: System.Reflection.AssemblyProductAttribute("RandLAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RandLAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Temp\\RandLAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Projects\\github\\RandLAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|c:\\projects\\github\\randlapi\\randlapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|solutionrelative:randlapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|c:\\projects\\github\\randlapi\\randlapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|solutionrelative:randlapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|c:\\projects\\github\\randlapi\\randlapi\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|solutionrelative:randlapi\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|c:\\projects\\github\\randlapi\\randlapi\\services\\rlcarrierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|solutionrelative:randlapi\\services\\rlcarrierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|c:\\projects\\github\\randlapi\\randlapi\\settings\\rlcarriersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|solutionrelative:randlapi\\settings\\rlcarriersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|c:\\projects\\github\\randlapi\\randlapi\\models\\rlcarrierbolrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596154BC-646C-04D7-7975-A29DCBF3A240}|RandLAPI\\RandLAPI.csproj|solutionrelative:randlapi\\models\\rlcarrierbolrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -21,23 +46,89 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RandLAPI\\appsettings.json",
+              "ToolTip": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\appsettings.json",
+              "RelativeToolTip": "RandLAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T16:42:19.444Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RandLAPI\\Program.cs",
+              "ToolTip": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\Program.cs",
+              "RelativeToolTip": "RandLAPI\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T16:42:10.409Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\Worker.cs",
+              "RelativeDocumentMoniker": "RandLAPI\\Worker.cs",
+              "ToolTip": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\Worker.cs",
+              "RelativeToolTip": "RandLAPI\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T16:42:05.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RLCarrierSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\Settings\\RLCarrierSettings.cs",
+              "RelativeDocumentMoniker": "RandLAPI\\Settings\\RLCarrierSettings.cs",
+              "ToolTip": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\Settings\\RLCarrierSettings.cs",
+              "RelativeToolTip": "RandLAPI\\Settings\\RLCarrierSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T16:35:04.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RLCarrierService.cs",
+              "DocumentMoniker": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\Services\\RLCarrierService.cs",
+              "RelativeDocumentMoniker": "RandLAPI\\Services\\RLCarrierService.cs",
+              "ToolTip": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\Services\\RLCarrierService.cs",
+              "RelativeToolTip": "RandLAPI\\Services\\RLCarrierService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T16:33:44.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RLCarrierBOLRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\Models\\RLCarrierBOLRequest.cs",
+              "RelativeDocumentMoniker": "RandLAPI\\Models\\RLCarrierBOLRequest.cs",
+              "ToolTip": "C:\\Projects\\github\\RandLAPI\\RandLAPI\\Models\\RLCarrierBOLRequest.cs",
+              "RelativeToolTip": "RandLAPI\\Models\\RLCarrierBOLRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T15:57:24.143Z",
+              "EditorCaption": ""
             }
           ]
         }
